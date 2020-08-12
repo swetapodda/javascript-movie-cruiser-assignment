@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+}
+
+.movies img {
+    /* background-color:rgb(250, 246, 246); */
+	
+	border-radius: 30%;
+	/* box-shadow: 15px 0 #c2ac85; */
+}

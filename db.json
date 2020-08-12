@@ -1,0 +1,54 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Bhaag Milkha Bhaag",
+      "releaseDate": "2013",
+      "posterPath": "images/BhaagMilkhaBhaag.jpg"
+    },
+    {
+      "title": "Dangal",
+      "releaseDate": "2016",
+      "posterPath": "images/dangal.jpg",
+      "id": 2
+    },
+    {
+      "title": "Gold",
+      "releaseDate": "2018",
+      "posterPath": "images/gold.jpg",
+      "id": 3
+    },
+    {
+      "title": "Mary Kom ",
+      "releaseDate": "2014",
+      "posterPath": "images/marykom.jpg",
+      "id": 4
+    },
+    {
+      "title": "Panga",
+      "releaseDate": "2020",
+      "posterPath": "images/Panga.jpg",
+      "id": 5
+    },
+    {
+      "title": "Panga",
+      "releaseDate": "2020",
+      "posterPath": "images/Panga.jpg",
+      "id": 6
+    }
+  ],
+  "favourites": [
+    {
+      "title": "Dangal",
+      "releaseDate": "2016",
+      "posterPath": "images/dangal.jpg",
+      "id": 2
+    },
+    {
+      "title": "Mary Kom ",
+      "releaseDate": "2014",
+      "posterPath": "images/marykom.jpg",
+      "id": 4
+    }
+  ]
+}
